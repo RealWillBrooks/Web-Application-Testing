@@ -1,0 +1,18 @@
+.App {
+ align-items: center;
+ text-align: center;
+ padding: 200px;
+ margin: 0 auto;
+ background-color: silver;
+}
+
+.dashboardDis {
+  color: black;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 5px 10px 5px;
+}
+
+
+

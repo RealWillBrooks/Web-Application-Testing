@@ -16,6 +16,7 @@ You are allowed, and encouraged, to collaborate with your peers while working on
 
 ## Commits
 
+
 Please push your code often and use descriptive commit messages, this helps you and your project manager.
 
 ## Project Description
